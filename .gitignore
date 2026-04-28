@@ -1,0 +1,12 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Env files
+.env
+
+# Uploads (user-generated content — do NOT commit)
+uploads/
+
+# Optional
+.DS_Store
